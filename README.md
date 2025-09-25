@@ -7,7 +7,7 @@
 - 🎓 Undergraduate student passionate about **Software Engineering & Full-stack Development**  
 - 💻 Exploring modern web and application development  
 - 📫 Reach me: **hasangaanawarathna@gmail.com**  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/hasanga-anawarathna-297081270)
+- 🔗 <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270">LinkedIn</a>
 
 ---
 
@@ -26,7 +26,7 @@
 ### 📊 GitHub Stats
 <div align="center">
 
-![Hasanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAnawarathna&show_icons=true&theme=tokyonight&hide_border=true)  
+![Hasanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAnawarathna&show_icons=true&theme=tokyonight&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAnawarathna&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
@@ -35,3 +35,23 @@
 
 ### ✨ Quote
 *"Keep learning, keep building, keep growing."*
+
+---
+
+### 📈 Activity (Stylish View)
+<div align="center">
+
+<!-- Wave-style contribution graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAnawarathna&theme=tokyo-night" alt="Hasanga's Activity Graph">
+
+</div>
+
+---
+
+### 📋 Profile Summary (Professional Panel)
+<div align="center">
+
+<!-- Compact panel summarizing contributions, PRs, issues -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAnawarathna&theme=tokyonight" alt="Profile Summary Card">
+
+</div>
