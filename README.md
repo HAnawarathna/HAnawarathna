@@ -2,11 +2,30 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello!+I'm+Hasanga+%F0%9F%91%8B;IT+Undergraduate+%7C+Full-stack+Learner;I+love+building+useful+student+projects" />
 </div>
 
+
+
 <p align="center">
-  <a href="mailto:hasangaanawarathna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat"></a>
-  <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
-  <a href="https://github.com/HAnawarathna"><img src="https://img.shields.io/badge/GitHub-Hasanga-black?style=flat&logo=github"></a>
+  <a href="mailto:hasangaanawarathna@gmail.com" title="Email me">
+    <img src="https://skillicons.dev/icons?i=gmail" height="48" alt="Gmail"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="48" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/HAnawarathna" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="48" alt="GitHub"/>
+  </a>
 </p>
+
+
+
+
+
+
+
+
+
 
 ---
 
