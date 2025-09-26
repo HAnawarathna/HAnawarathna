@@ -1,57 +1,46 @@
-<h1 align="center">Hi 👋, I'm Hasanga Anawarathna</h1>
-<h3 align="center">Undergraduate Student | Building skills, one commit at a time 🚀</h3>
-
----
-
-### 👨‍💻 About Me
-- 🎓 Undergraduate student passionate about **Software Engineering & Full-stack Development**  
-- 💻 Exploring modern web and application development  
-- 📫 Reach me: **hasangaanawarathna@gmail.com**  
-- 🔗 <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270">LinkedIn</a>
-
----
-
-### 🛠️ Skills & Tools
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-
----
-
-### 📊 GitHub Stats
 <div align="center">
-
-![Hasanga's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HAnawarathna&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HAnawarathna&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img src="https://readme-typing-svg.herokuapp.com?size=24&center=true&vCenter=true&width=700&lines=Hello!+I'm+Hasanga+%F0%9F%91%8B;IT+Undergraduate+%7C+Full-stack+Learner;I+love+building+useful+student+projects" />
 </div>
 
----
-
-### ✨ Quote
-*"Keep learning, keep building, keep growing."*
-
----
-
-### 📈 Activity (Stylish View)
-<div align="center">
-
-<!-- Wave-style contribution graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAnawarathna&theme=tokyo-night" alt="Hasanga's Activity Graph">
-
-</div>
+<p align="center">
+  <a href="mailto:hasangaanawarathna@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-informational?style=flat"></a>
+  <a href="https://www.linkedin.com/in/hasanga-anawarathna-297081270"><img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin"></a>
+  <a href="https://github.com/HAnawarathna"><img src="https://img.shields.io/badge/GitHub-Hasanga-black?style=flat&logo=github"></a>
+</p>
 
 ---
 
-### 📋 Profile Summary (Professional Panel)
-<div align="center">
+### 🔧 Toolbox
+<p>
+  <img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,bootstrap,php,mysql,git,linux,vscode&perline=6" />
+</p>
 
-<!-- Compact panel summarizing contributions, PRs, issues -->
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAnawarathna&theme=tokyonight" alt="Profile Summary Card">
+### 🧩 What I’m Learning
+- Data structures & algorithms  
+- RESTful APIs and clean architecture  
+- Testing (PyTest/Jest) & CI basics
 
-</div>
+---
+
+
+
+---
+
+### 📈 Profile Summary
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HAnawarathna&theme=tokyonight" />
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HAnawarathna&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HAnawarathna&theme=tokyonight" />
+</p>
+
+### 🔄 Contribution Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HAnawarathna&theme=rogue&hide_border=true" />
+</p>
+
+---
+
+### 🤝 Connect
+- Email: **hasangaanawarathna@gmail.com**  
+- LinkedIn: **/hasanga-anawarathna-297081270**
